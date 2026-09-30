@@ -1,7 +1,7 @@
 <!-- ============ HEADER: typewriter effect ============ -->
 
   <a href="https://github.com/novemeliaw">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30    &duration=2800&pause=200&vCenter=true&width=435&lines=Hello+There!+%28%C2%B0%E2%88%87%C2%B0%29%2F;Welcome+to+My+Page!%E3%80%80;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%28%C2%B0%E2%88%87%C2%B0%29%2F;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E7%A7%81%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8!" alt="Introduction" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=200&vCenter=true&width=435&lines=Hello+There!+%28%C2%B0%E2%88%87%C2%B0%29%2F;Welcome+to+My+Page!%E3%80%80;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%28%C2%B0%E2%88%87%C2%B0%29%2F;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%81%E7%A7%81%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8!" alt="Introduction" />
   </a>
 
 
@@ -12,8 +12,6 @@
     <tr> <td width="50%" valign="top"> 
         <img src="assets\toggle_en.svg" alt="EN" height="30" />
 
-# 
-
 A **full-cycle IT engineer** who can handle everything from ***Web Development*** and ***Data Analysis / Data Science*** to ***Quality Assurance (QA)***.
 
 I enjoy owning a product from end to end: building the features, making sense of the data behind them and last but not least testing to make sure everything works the way users expect.
@@ -21,8 +19,6 @@ I enjoy owning a product from end to end: building the features, making sense of
 </td>
     <td width="50%" valign="top"> 
         <img src="assets\toggle_jp.svg" alt="EN" height="30" />
-
-#
 
 Webプログラミング、データ分析・データサイエンスから品質保証（QA）まで、幅広く対応できるフルサイクルITエンジニアです。
 
@@ -74,7 +70,7 @@ Webプログラミング、データ分析・データサイエンスから品�
   <tr>
     <td width="50%" valign="top">
       <a href="https://ppa-dp3appkb.surabaya.go.id/laporppa/">
-        <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/novemeliaw/novemeliaw/main/assets/lapor-ppa.png&w=600&h=320&fit=cover&a=top" alt="Lapor PPA" width="100%" />
+        <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/novemeliaw/novemeliaw/main/assets/laporppa.png&w=600&h=320&fit=cover&a=top" alt="Lapor PPA" width="100%" />
       </a>
       <h3><a href="https://ppa-dp3appkb.surabaya.go.id/laporppa/">Lapor PPA</a></h3>
         <code>Typescript</code>
@@ -84,7 +80,7 @@ Webプログラミング、データ分析・データサイエンスから品�
     </td>
     <td width="50%" valign="top">
        <a href="https://github.com/novemeliaw/healthcare-management">
-        <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/novemeliaw/novemeliaw/main/assets/healthcare-management.png&w=600&h=320&fit=cover&a=top" alt="Healthcare Management" width="100%" />
+        <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/novemeliaw/novemeliaw/main/assets/healthcare.png&w=600&h=320&fit=cover&a=top" alt="Healthcare Management" width="100%" />
       </a>
       <h3><a href="https://github.com/novemeliaw/healthcare-management">Healthcare Management</a></h3>
         <code>Neo4j</code>
